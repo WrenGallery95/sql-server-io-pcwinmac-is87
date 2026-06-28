@@ -1,4 +1,4 @@
-# 
+# Premium Docker Desktop scripts pour Mac OS | Turbo Docker Desktop scripts pour PC Windows. Avec vérifications de santé et modèles en direct — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
